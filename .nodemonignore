@@ -1,0 +1,7 @@
+traffic_logs/**
+traffic_logs
+session_store.json
+scratch/**
+*.log
+*.har
+*.jsonl

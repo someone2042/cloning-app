@@ -1,0 +1,17 @@
+{
+  "watch": [
+    "src"
+  ],
+  "ext": "js,json,html,css",
+  "ignore": [
+    "traffic_logs/**",
+    "traffic_logs",
+    "session_store.json",
+    "cookies.json",
+    "scratch/**",
+    "*.log",
+    "*.har",
+    "*.jsonl"
+  ],
+  "delay": "1000"
+}

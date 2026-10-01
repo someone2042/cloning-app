@@ -1,0 +1,22 @@
+# Environment — never commit real secrets
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Logs, Session Data & Traffic Captures
+logs/
+traffic_logs/
+session_store.json
+cookies.json
+scratch/
+*.log
+*.har
+*.jsonl
+
+# OS & Editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
